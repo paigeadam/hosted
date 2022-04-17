@@ -1,0 +1,476 @@
+{
+  "guild": {
+    "id": "0",
+    "name": "Direct Messages",
+    "iconUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+  },
+  "channel": {
+    "id": "945531386952052776",
+    "type": "DirectGroupTextChat",
+    "categoryId": "0",
+    "category": "Group",
+    "name": "DnD notes",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "945531536613212210",
+      "type": "ChannelNameChange",
+      "timestamp": "2022-02-22T04:04:45.455+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Changed the channel name.",
+      "author": {
+        "id": "693524833916682283",
+        "name": "rexlibris",
+        "discriminator": "5810",
+        "nickname": "rexlibris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/693524833916682283/c71b34c237fba95ffb8442690de07fdc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "945533741013561387",
+      "type": "Default",
+      "timestamp": "2022-02-22T04:13:31.025+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Nasir's brother Harakh",
+      "author": {
+        "id": "693524833916682283",
+        "name": "rexlibris",
+        "discriminator": "5810",
+        "nickname": "rexlibris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/693524833916682283/c71b34c237fba95ffb8442690de07fdc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "945550663608315974",
+      "type": "Default",
+      "timestamp": "2022-02-22T05:20:45.686+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Found in the desert seemingly abandoned at birth. Bard, wandering priest, janissary",
+      "author": {
+        "id": "693524833916682283",
+        "name": "rexlibris",
+        "discriminator": "5810",
+        "nickname": "rexlibris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/693524833916682283/c71b34c237fba95ffb8442690de07fdc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "946481314243149834",
+      "type": "Default",
+      "timestamp": "2022-02-24T18:58:50.088+00:00",
+      "timestampEdited": "2022-02-24T19:13:46.453+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Feats\n-------\n~~Shadow Touched~~\nTelekinetic\nFey Touched\n \nCurrent Eldritch Invocations\n--------------------------------\n~~Aspect of the Moon~~\nAscendant Step\nBook of Ancient Secrets\nDevil's Sight\n~~Eldritch Sight~~\nGrasp of Hadar\n~~Gift of the Protectors~~\nMisty Visions\nRepelling Blast",
+      "author": {
+        "id": "693524833916682283",
+        "name": "rexlibris",
+        "discriminator": "5810",
+        "nickname": "rexlibris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/693524833916682283/c71b34c237fba95ffb8442690de07fdc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "946573307543711765",
+      "type": "Default",
+      "timestamp": "2022-02-25T01:04:23+00:00",
+      "timestampEdited": "2022-03-04T01:08:43.029+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "#locations\nPhandalin\n>Tresendar Manor\n>>thible stib the gnome\n\nanaroch desert\n>anaria\nythrin \n\n#teleportationcirlces\nNeverwinter\n>Harper's Strong hold\nTower in North\njerxs owes you",
+      "author": {
+        "id": "693524833916682283",
+        "name": "rexlibris",
+        "discriminator": "5810",
+        "nickname": "rexlibris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/693524833916682283/c71b34c237fba95ffb8442690de07fdc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "946580780388319232",
+      "type": "Default",
+      "timestamp": "2022-02-25T01:34:04.665+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sildar hallwinter lords alliance\ngundran rockseeker",
+      "author": {
+        "id": "693524833916682283",
+        "name": "rexlibris",
+        "discriminator": "5810",
+        "nickname": "rexlibris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/693524833916682283/c71b34c237fba95ffb8442690de07fdc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "946800512060235879",
+      "type": "Default",
+      "timestamp": "2022-02-25T16:07:12.778+00:00",
+      "timestampEdited": "2022-02-25T16:59:25.841+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Ythryn was last recorded in Netherese documents and journals as departing for a mission far to the north to search for relics and ruins from an ancient empire of spellcasting giants\nApprentice mages would graduate from the House of the Arcane and join one of eight arcane towers, each one dedicated to a different school of magic.\nIn times of trouble, the wizards raised a force field around the enclave's central spire that only they could pass through.",
+      "author": {
+        "id": "693524833916682283",
+        "name": "rexlibris",
+        "discriminator": "5810",
+        "nickname": "rexlibris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/693524833916682283/c71b34c237fba95ffb8442690de07fdc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "949098959702483055",
+      "type": "Default",
+      "timestamp": "2022-03-04T00:20:25.399+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "house of knowledge eltidar",
+      "author": {
+        "id": "693524833916682283",
+        "name": "rexlibris",
+        "discriminator": "5810",
+        "nickname": "rexlibris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/693524833916682283/c71b34c237fba95ffb8442690de07fdc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "949109872446808144",
+      "type": "Default",
+      "timestamp": "2022-03-04T01:03:47.2+00:00",
+      "timestampEdited": "2022-03-04T01:35:21.06+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "#zauberbuch der unaussprechlichen kulten\npages:\n\nOne target of your next spell cast has disadvantage to resist the effects of the spell.",
+      "author": {
+        "id": "693524833916682283",
+        "name": "rexlibris",
+        "discriminator": "5810",
+        "nickname": "rexlibris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/693524833916682283/c71b34c237fba95ffb8442690de07fdc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "949110205294198854",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2022-03-04T01:05:06.557+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "693524833916682283",
+        "name": "rexlibris",
+        "discriminator": "5810",
+        "nickname": "rexlibris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/693524833916682283/c71b34c237fba95ffb8442690de07fdc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "949109872446808144",
+        "channelId": "945531386952052776",
+        "guildId": null
+      }
+    },
+    {
+      "id": "949110226857115699",
+      "type": "Default",
+      "timestamp": "2022-03-04T01:05:11.698+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The Wizards of the Ebon Star, masters of their craft and council to lead the magisters of their city. Guided by the star, hunting for artifacts beyond their power and spelling their doom. The fall their ultimate doom, their burial chamber frigid in the north.",
+      "author": {
+        "id": "693524833916682283",
+        "name": "rexlibris",
+        "discriminator": "5810",
+        "nickname": "rexlibris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/693524833916682283/c71b34c237fba95ffb8442690de07fdc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "949111579927019530",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2022-03-04T01:10:34.295+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "693524833916682283",
+        "name": "rexlibris",
+        "discriminator": "5810",
+        "nickname": "rexlibris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/693524833916682283/c71b34c237fba95ffb8442690de07fdc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "946573307543711765",
+        "channelId": "945531386952052776",
+        "guildId": null
+      }
+    },
+    {
+      "id": "949123261353058304",
+      "type": "Default",
+      "timestamp": "2022-03-04T01:56:59.364+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "underground crystal ley line infused with magic",
+      "author": {
+        "id": "693524833916682283",
+        "name": "rexlibris",
+        "discriminator": "5810",
+        "nickname": "rexlibris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/693524833916682283/c71b34c237fba95ffb8442690de07fdc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "950552688108634133",
+      "type": "Default",
+      "timestamp": "2022-03-08T00:37:01.26+00:00",
+      "timestampEdited": "2022-03-08T00:37:31.587+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Naga snake people of desert #research",
+      "author": {
+        "id": "693524833916682283",
+        "name": "rexlibris",
+        "discriminator": "5810",
+        "nickname": "rexlibris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/693524833916682283/c71b34c237fba95ffb8442690de07fdc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "960718735411400774",
+      "type": "Default",
+      "timestamp": "2022-04-05T01:53:15.813+00:00",
+      "timestampEdited": "2022-04-05T01:56:33.55+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "<t:1649458800:TR>",
+      "author": {
+        "id": "693524833916682283",
+        "name": "rexlibris",
+        "discriminator": "5810",
+        "nickname": "rexlibris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/693524833916682283/c71b34c237fba95ffb8442690de07fdc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "960741241333637120",
+      "type": "Default",
+      "timestamp": "2022-04-05T03:22:41.643+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "(╯°□°）╯︵ ┻━┻",
+      "author": {
+        "id": "693524833916682283",
+        "name": "rexlibris",
+        "discriminator": "5810",
+        "nickname": "rexlibris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/693524833916682283/c71b34c237fba95ffb8442690de07fdc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "960741349357912145",
+      "type": "Default",
+      "timestamp": "2022-04-05T03:23:07.398+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "┬─┬ ノ( ゜-゜ノ)",
+      "author": {
+        "id": "693524833916682283",
+        "name": "rexlibris",
+        "discriminator": "5810",
+        "nickname": "rexlibris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/693524833916682283/c71b34c237fba95ffb8442690de07fdc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "960741414327701514",
+      "type": "Default",
+      "timestamp": "2022-04-05T03:23:22.888+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "_yay!_",
+      "author": {
+        "id": "693524833916682283",
+        "name": "rexlibris",
+        "discriminator": "5810",
+        "nickname": "rexlibris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/693524833916682283/c71b34c237fba95ffb8442690de07fdc.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961787320162455594",
+      "type": "Default",
+      "timestamp": "2022-04-08T00:39:26.271+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "693524833916682283",
+        "name": "rexlibris",
+        "discriminator": "5810",
+        "nickname": "rexlibris",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/693524833916682283/c71b34c237fba95ffb8442690de07fdc.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "961787319747215360",
+          "url": "https://cdn.discordapp.com/attachments/945531386952052776/961787319747215360/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 2675404
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 19
+}
